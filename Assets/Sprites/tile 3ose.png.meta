@@ -1,0 +1,543 @@
+fileFormatVersion: 2
+guid: a568cab717228c44fa3ee11de74be039
+timeCreated: 1513074239
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: tile 3ose_0
+    21300002: tile 3ose_1
+    21300004: tile 3ose_2
+    21300006: tile 3ose_3
+    21300008: tile 3ose_4
+    21300010: tile 3ose_5
+    21300012: tile 3ose_6
+    21300014: tile 3ose_7
+    21300016: tile 3ose_8
+    21300018: tile 3ose_9
+    21300020: tile 3ose_10
+    21300022: tile 3ose_11
+    21300024: tile 3ose_12
+    21300026: tile 3ose_13
+    21300028: tile 3ose_14
+    21300030: tile 3ose_15
+    21300032: tile 3ose_16
+    21300034: tile 3ose_17
+    21300036: tile 3ose_18
+    21300038: tile 3ose_19
+    21300040: tile 3ose_20
+    21300042: tile 3ose_21
+    21300044: tile 3ose_22
+    21300046: tile 3ose_23
+    21300048: tile 3ose_24
+    21300050: tile 3ose_25
+    21300052: tile 3ose_26
+    21300054: tile 3ose_27
+    21300056: tile 3ose_28
+    21300058: tile 3ose_29
+    21300060: tile 3ose_30
+    21300062: tile 3ose_31
+    21300064: tile 3ose_32
+    21300066: tile 3ose_33
+    21300068: tile 3ose_34
+    21300070: tile 3ose_35
+    21300072: tile 3ose_36
+    21300074: tile 3ose_37
+    21300076: tile 3ose_38
+    21300078: tile 3ose_39
+    21300080: tile 3ose_40
+    21300082: tile 3ose_41
+    21300084: tile 3ose_42
+    21300086: tile 3ose_43
+    21300088: tile 3ose_44
+    21300090: tile 3ose_45
+    21300092: tile 3ose_46
+    21300094: tile 3ose_47
+    21300096: tile 3ose_48
+    21300098: tile 3ose_49
+    21300100: tile 3ose_50
+    21300102: tile 3ose_51
+    21300104: tile 3ose_52
+    21300106: tile 3ose_53
+    21300108: tile 3ose_54
+    21300110: tile 3ose_55
+    21300112: tile 3ose_56
+    21300114: tile 3ose_57
+    21300116: tile 3ose_58
+    21300118: tile 3ose_59
+    21300120: tile 3ose_60
+    21300122: tile 3ose_61
+    21300124: tile 3ose_62
+    21300126: tile 3ose_63
+    21300128: tile 3ose_64
+    21300130: tile 3ose_65
+    21300132: tile 3ose_66
+    21300134: tile 3ose_67
+    21300136: tile 3ose_68
+    21300138: tile 3ose_69
+    21300140: tile 3ose_70
+    21300142: tile 3ose_71
+    21300144: tile 3ose_72
+    21300146: tile 3ose_73
+    21300148: tile 3ose_74
+    21300150: tile 3ose_75
+    21300152: tile 3ose_76
+    21300154: tile 3ose_77
+    21300156: tile 3ose_78
+    21300158: tile 3ose_79
+    21300160: tile 3ose_80
+    21300162: tile 3ose_81
+    21300164: tile 3ose_82
+    21300166: tile 3ose_83
+    21300168: tile 3ose_84
+    21300170: tile 3ose_85
+    21300172: tile 3ose_86
+    21300174: tile 3ose_87
+    21300176: tile 3ose_88
+    21300178: tile 3ose_89
+    21300180: tile 3ose_90
+    21300182: tile 3ose_91
+    21300184: tile 3ose_92
+    21300186: tile 3ose_93
+    21300188: tile 3ose_94
+    21300190: tile 3ose_95
+    21300192: tile 3ose_96
+    21300194: tile 3ose_97
+    21300196: tile 3ose_98
+    21300198: tile 3ose_99
+    21300200: tile 3ose_100
+    21300202: tile 3ose_101
+    21300204: tile 3ose_102
+    21300206: tile 3ose_103
+    21300208: tile 3ose_104
+    21300210: tile 3ose_105
+    21300212: tile 3ose_106
+    21300214: tile 3ose_107
+    21300216: tile 3ose_108
+    21300218: tile 3ose_109
+    21300220: tile 3ose_110
+    21300222: tile 3ose_111
+    21300224: tile 3ose_112
+    21300226: tile 3ose_113
+    21300228: tile 3ose_114
+    21300230: tile 3ose_115
+    21300232: tile 3ose_116
+    21300234: tile 3ose_117
+    21300236: tile 3ose_118
+    21300238: tile 3ose_119
+    21300240: tile 3ose_120
+    21300242: tile 3ose_121
+    21300244: tile 3ose_122
+    21300246: tile 3ose_123
+    21300248: tile 3ose_124
+    21300250: tile 3ose_125
+    21300252: tile 3ose_126
+    21300254: tile 3ose_127
+    21300256: tile 3ose_128
+    21300258: tile 3ose_129
+    21300260: tile 3ose_130
+    21300262: tile 3ose_131
+    21300264: tile 3ose_132
+    21300266: tile 3ose_133
+    21300268: tile 3ose_134
+    21300270: tile 3ose_135
+    21300272: tile 3ose_136
+    21300274: tile 3ose_137
+    21300276: tile 3ose_138
+    21300278: tile 3ose_139
+    21300280: tile 3ose_140
+    21300282: tile 3ose_141
+    21300284: tile 3ose_142
+    21300286: tile 3ose_143
+    21300288: tile 3ose_144
+    21300290: tile 3ose_145
+    21300292: tile 3ose_146
+    21300294: tile 3ose_147
+    21300296: tile 3ose_148
+    21300298: tile 3ose_149
+    21300300: tile 3ose_150
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  - buildTarget: Tizen
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tile 3ose_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 139
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 139
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 139
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 139
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 75
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 75
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 75
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 75
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 75
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 11
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 11
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 11
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: tiles
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

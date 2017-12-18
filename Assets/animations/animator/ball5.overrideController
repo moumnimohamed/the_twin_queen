@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: ball5
+  m_Controller: {fileID: 9100000, guid: 4b5f2402755f0f34286cd8edd7d4c7d8, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 6399d6c0f7072ec4796ebedb816be983, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 7735c7dc4001a6d4da35d4f0569289c0, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 9bb5b9e4961584349af9505e4c9ad9e7, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 7f6eb6f1cf2a26c47b2fbaaf7a589566, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 5ab0ddc591daaa14e9025b45d52e7457, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 5ab0ddc591daaa14e9025b45d52e7457, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 019b1a405e5505b459d6c9e6b987622d, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: fc84dc12e3ddb1447be0a33493d9b392, type: 2}

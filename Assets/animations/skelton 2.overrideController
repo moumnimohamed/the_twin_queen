@@ -1,0 +1,12 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: skelton 2
+  m_Controller: {fileID: 9100000, guid: b72a4d91e34d1e94db3c8cf55aeaf16d, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: ac0b87d4f10b0eb40a3dea0b49d07e1e, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 50e8ef13fb7d9d7439d9d22161a02cfc, type: 2}

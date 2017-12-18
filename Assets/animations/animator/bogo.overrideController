@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: bogo
+  m_Controller: {fileID: 9100000, guid: ff7142ef95e9d23419899305c544f188, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 29a3b72466c8e204cb194e9c01cdf21c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a0fef61a2e59a3b4c8cdb4ecf7c5a0de, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 911e437938fc60d42a0c21eaa90deab3, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 97eb539bc377f4e4bbe5febac149f36e, type: 2}

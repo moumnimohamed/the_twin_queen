@@ -1,0 +1,3810 @@
+fileFormatVersion: 2
+guid: eaf5328ed25712a4fb88dde8ed517b33
+timeCreated: 1513531442
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: tile 3ose 2_0
+    21300002: tile 3ose 2_1
+    21300004: tile 3ose 2_2
+    21300006: tile 3ose 2_3
+    21300008: tile 3ose 2_4
+    21300010: tile 3ose 2_5
+    21300012: tile 3ose 2_6
+    21300014: tile 3ose 2_7
+    21300016: tile 3ose 2_8
+    21300018: tile 3ose 2_9
+    21300020: tile 3ose 2_10
+    21300022: tile 3ose 2_11
+    21300024: tile 3ose 2_12
+    21300026: tile 3ose 2_13
+    21300028: tile 3ose 2_14
+    21300030: tile 3ose 2_15
+    21300032: tile 3ose 2_16
+    21300034: tile 3ose 2_17
+    21300036: tile 3ose 2_18
+    21300038: tile 3ose 2_19
+    21300040: tile 3ose 2_20
+    21300042: tile 3ose 2_21
+    21300044: tile 3ose 2_22
+    21300046: tile 3ose 2_23
+    21300048: tile 3ose 2_24
+    21300050: tile 3ose 2_25
+    21300052: tile 3ose 2_26
+    21300054: tile 3ose 2_27
+    21300056: tile 3ose 2_28
+    21300058: tile 3ose 2_29
+    21300060: tile 3ose 2_30
+    21300062: tile 3ose 2_31
+    21300064: tile 3ose 2_32
+    21300066: tile 3ose 2_33
+    21300068: tile 3ose 2_34
+    21300070: tile 3ose 2_35
+    21300072: tile 3ose 2_36
+    21300074: tile 3ose 2_37
+    21300076: tile 3ose 2_38
+    21300078: tile 3ose 2_39
+    21300080: tile 3ose 2_40
+    21300082: tile 3ose 2_41
+    21300084: tile 3ose 2_42
+    21300086: tile 3ose 2_43
+    21300088: tile 3ose 2_44
+    21300090: tile 3ose 2_45
+    21300092: tile 3ose 2_46
+    21300094: tile 3ose 2_47
+    21300096: tile 3ose 2_48
+    21300098: tile 3ose 2_49
+    21300100: tile 3ose 2_50
+    21300102: tile 3ose 2_51
+    21300104: tile 3ose 2_52
+    21300106: tile 3ose 2_53
+    21300108: tile 3ose 2_54
+    21300110: tile 3ose 2_55
+    21300112: tile 3ose 2_56
+    21300114: tile 3ose 2_57
+    21300116: tile 3ose 2_58
+    21300118: tile 3ose 2_59
+    21300120: tile 3ose 2_60
+    21300122: tile 3ose 2_61
+    21300124: tile 3ose 2_62
+    21300126: tile 3ose 2_63
+    21300128: tile 3ose 2_64
+    21300130: tile 3ose 2_65
+    21300132: tile 3ose 2_66
+    21300134: tile 3ose 2_67
+    21300136: tile 3ose 2_68
+    21300138: tile 3ose 2_69
+    21300140: tile 3ose 2_70
+    21300142: tile 3ose 2_71
+    21300144: tile 3ose 2_72
+    21300146: tile 3ose 2_73
+    21300148: tile 3ose 2_74
+    21300150: tile 3ose 2_75
+    21300152: tile 3ose 2_76
+    21300154: tile 3ose 2_77
+    21300156: tile 3ose 2_78
+    21300158: tile 3ose 2_79
+    21300160: tile 3ose 2_80
+    21300162: tile 3ose 2_81
+    21300164: tile 3ose 2_82
+    21300166: tile 3ose 2_83
+    21300168: tile 3ose 2_84
+    21300170: tile 3ose 2_85
+    21300172: tile 3ose 2_86
+    21300174: tile 3ose 2_87
+    21300176: tile 3ose 2_88
+    21300178: tile 3ose 2_89
+    21300180: tile 3ose 2_90
+    21300182: tile 3ose 2_91
+    21300184: tile 3ose 2_92
+    21300186: tile 3ose 2_93
+    21300188: tile 3ose 2_94
+    21300190: tile 3ose 2_95
+    21300192: tile 3ose 2_96
+    21300194: tile 3ose 2_97
+    21300196: tile 3ose 2_98
+    21300198: tile 3ose 2_99
+    21300200: tile 3ose 2_100
+    21300202: tile 3ose 2_101
+    21300204: tile 3ose 2_102
+    21300206: tile 3ose 2_103
+    21300208: tile 3ose 2_104
+    21300210: tile 3ose 2_105
+    21300212: tile 3ose 2_106
+    21300214: tile 3ose 2_107
+    21300216: tile 3ose 2_108
+    21300218: tile 3ose 2_109
+    21300220: tile 3ose 2_110
+    21300222: tile 3ose 2_111
+    21300224: tile 3ose 2_112
+    21300226: tile 3ose 2_113
+    21300228: tile 3ose 2_114
+    21300230: tile 3ose 2_115
+    21300232: tile 3ose 2_116
+    21300234: tile 3ose 2_117
+    21300236: tile 3ose 2_118
+    21300238: tile 3ose 2_119
+    21300240: tile 3ose 2_120
+    21300242: tile 3ose 2_121
+    21300244: tile 3ose 2_122
+    21300246: tile 3ose 2_123
+    21300248: tile 3ose 2_124
+    21300250: tile 3ose 2_125
+    21300252: tile 3ose 2_126
+    21300254: tile 3ose 2_127
+    21300256: tile 3ose 2_128
+    21300258: tile 3ose 2_129
+    21300260: tile 3ose 2_130
+    21300262: tile 3ose 2_131
+    21300264: tile 3ose 2_132
+    21300266: tile 3ose 2_133
+    21300268: tile 3ose 2_134
+    21300270: tile 3ose 2_135
+    21300272: tile 3ose 2_136
+    21300274: tile 3ose 2_137
+    21300276: tile 3ose 2_138
+    21300278: tile 3ose 2_139
+    21300280: tile 3ose 2_140
+    21300282: tile 3ose 2_141
+    21300284: tile 3ose 2_142
+    21300286: tile 3ose 2_143
+    21300288: tile 3ose 2_144
+    21300290: tile 3ose 2_145
+    21300292: tile 3ose 2_146
+    21300294: tile 3ose 2_147
+    21300296: tile 3ose 2_148
+    21300298: tile 3ose 2_149
+    21300300: tile 3ose 2_150
+    21300302: tile 3ose 2_151
+    21300304: tile 3ose 2_152
+    21300306: tile 3ose 2_153
+    21300308: tile 3ose 2_154
+    21300310: tile 3ose 2_155
+    21300312: tile 3ose 2_156
+    21300314: tile 3ose 2_157
+    21300316: tile 3ose 2_158
+    21300318: tile 3ose 2_159
+    21300320: tile 3ose 2_160
+    21300322: tile 3ose 2_161
+    21300324: tile 3ose 2_162
+    21300326: tile 3ose 2_163
+    21300328: tile 3ose 2_164
+    21300330: tile 3ose 2_165
+    21300332: tile 3ose 2_166
+    21300334: tile 3ose 2_167
+    21300336: tile 3ose 2_168
+    21300338: tile 3ose 2_169
+    21300340: tile 3ose 2_170
+    21300342: tile 3ose 2_171
+    21300344: tile 3ose 2_172
+    21300346: tile 3ose 2_173
+    21300348: tile 3ose 2_174
+    21300350: tile 3ose 2_175
+    21300352: tile 3ose 2_176
+    21300354: tile 3ose 2_177
+    21300356: tile 3ose 2_178
+    21300358: tile 3ose 2_179
+    21300360: tile 3ose 2_180
+    21300362: tile 3ose 2_181
+    21300364: tile 3ose 2_182
+    21300366: tile 3ose 2_183
+    21300368: tile 3ose 2_184
+    21300370: tile 3ose 2_185
+    21300372: tile 3ose 2_186
+    21300374: tile 3ose 2_187
+    21300376: tile 3ose 2_188
+    21300378: tile 3ose 2_189
+    21300380: tile 3ose 2_190
+    21300382: tile 3ose 2_191
+    21300384: tile 3ose 2_192
+    21300386: tile 3ose 2_193
+    21300388: tile 3ose 2_194
+    21300390: tile 3ose 2_195
+    21300392: tile 3ose 2_196
+    21300394: tile 3ose 2_197
+    21300396: tile 3ose 2_198
+    21300398: tile 3ose 2_199
+    21300400: tile 3ose 2_200
+    21300402: tile 3ose 2_201
+    21300404: tile 3ose 2_202
+    21300406: tile 3ose 2_203
+    21300408: tile 3ose 2_204
+    21300410: tile 3ose 2_205
+    21300412: tile 3ose 2_206
+    21300414: tile 3ose 2_207
+    21300416: tile 3ose 2_208
+    21300418: tile 3ose 2_209
+    21300420: tile 3ose 2_210
+    21300422: tile 3ose 2_211
+    21300424: tile 3ose 2_212
+    21300426: tile 3ose 2_213
+    21300428: tile 3ose 2_214
+    21300430: tile 3ose 2_215
+    21300432: tile 3ose 2_216
+    21300434: tile 3ose 2_217
+    21300436: tile 3ose 2_218
+    21300438: tile 3ose 2_219
+    21300440: tile 3ose 2_220
+    21300442: tile 3ose 2_221
+    21300444: tile 3ose 2_222
+    21300446: tile 3ose 2_223
+    21300448: tile 3ose 2_224
+    21300450: tile 3ose 2_225
+    21300452: tile 3ose 2_226
+    21300454: tile 3ose 2_227
+    21300456: tile 3ose 2_228
+    21300458: tile 3ose 2_229
+    21300460: tile 3ose 2_230
+    21300462: tile 3ose 2_231
+    21300464: tile 3ose 2_232
+    21300466: tile 3ose 2_233
+    21300468: tile 3ose 2_234
+    21300470: tile 3ose 2_235
+    21300472: tile 3ose 2_236
+    21300474: tile 3ose 2_237
+    21300476: tile 3ose 2_238
+    21300478: tile 3ose 2_239
+    21300480: tile 3ose 2_240
+    21300482: tile 3ose 2_241
+    21300484: tile 3ose 2_242
+    21300486: tile 3ose 2_243
+    21300488: tile 3ose 2_244
+    21300490: tile 3ose 2_245
+    21300492: tile 3ose 2_246
+    21300494: tile 3ose 2_247
+    21300496: tile 3ose 2_248
+    21300498: tile 3ose 2_249
+    21300500: tile 3ose 2_250
+    21300502: tile 3ose 2_251
+    21300504: tile 3ose 2_252
+    21300506: tile 3ose 2_253
+    21300508: tile 3ose 2_254
+    21300510: tile 3ose 2_255
+    21300512: tile 3ose 2_256
+    21300514: tile 3ose 2_257
+    21300516: tile 3ose 2_258
+    21300518: tile 3ose 2_259
+    21300520: tile 3ose 2_260
+    21300522: tile 3ose 2_261
+    21300524: tile 3ose 2_262
+    21300526: tile 3ose 2_263
+    21300528: tile 3ose 2_264
+    21300530: tile 3ose 2_265
+    21300532: tile 3ose 2_266
+    21300534: tile 3ose 2_267
+    21300536: tile 3ose 2_268
+    21300538: tile 3ose 2_269
+    21300540: tile 3ose 2_270
+    21300542: tile 3ose 2_271
+    21300544: tile 3ose 2_272
+    21300546: tile 3ose 2_273
+    21300548: tile 3ose 2_274
+    21300550: tile 3ose 2_275
+    21300552: tile 3ose 2_276
+    21300554: tile 3ose 2_277
+    21300556: tile 3ose 2_278
+    21300558: tile 3ose 2_279
+    21300560: tile 3ose 2_280
+    21300562: tile 3ose 2_281
+    21300564: tile 3ose 2_282
+    21300566: tile 3ose 2_283
+    21300568: tile 3ose 2_284
+    21300570: tile 3ose 2_285
+    21300572: tile 3ose 2_286
+    21300574: tile 3ose 2_287
+    21300576: tile 3ose 2_288
+    21300578: tile 3ose 2_289
+    21300580: tile 3ose 2_290
+    21300582: tile 3ose 2_291
+    21300584: tile 3ose 2_292
+    21300586: tile 3ose 2_293
+    21300588: tile 3ose 2_294
+    21300590: tile 3ose 2_295
+    21300592: tile 3ose 2_296
+    21300594: tile 3ose 2_297
+    21300596: tile 3ose 2_298
+    21300598: tile 3ose 2_299
+    21300600: tile 3ose 2_300
+    21300602: tile 3ose 2_301
+    21300604: tile 3ose 2_302
+    21300606: tile 3ose 2_303
+    21300608: tile 3ose 2_304
+    21300610: tile 3ose 2_305
+    21300612: tile 3ose 2_306
+    21300614: tile 3ose 2_307
+    21300616: tile 3ose 2_308
+    21300618: tile 3ose 2_309
+    21300620: tile 3ose 2_310
+    21300622: tile 3ose 2_311
+    21300624: tile 3ose 2_312
+    21300626: tile 3ose 2_313
+    21300628: tile 3ose 2_314
+    21300630: tile 3ose 2_315
+    21300632: tile 3ose 2_316
+    21300634: tile 3ose 2_317
+    21300636: tile 3ose 2_318
+    21300638: tile 3ose 2_319
+    21300640: tile 3ose 2_320
+    21300642: tile 3ose 2_321
+    21300644: tile 3ose 2_322
+    21300646: tile 3ose 2_323
+    21300648: tile 3ose 2_324
+    21300650: tile 3ose 2_325
+    21300652: tile 3ose 2_326
+    21300654: tile 3ose 2_327
+    21300656: tile 3ose 2_328
+    21300658: tile 3ose 2_329
+    21300660: tile 3ose 2_330
+    21300662: tile 3ose 2_331
+    21300664: tile 3ose 2_332
+    21300666: tile 3ose 2_333
+    21300668: tile 3ose 2_334
+    21300670: tile 3ose 2_335
+    21300672: tile 3ose 2_336
+    21300674: tile 3ose 2_337
+    21300676: tile 3ose 2_338
+    21300678: tile 3ose 2_339
+    21300680: tile 3ose 2_340
+    21300682: tile 3ose 2_341
+    21300684: tile 3ose 2_342
+    21300686: tile 3ose 2_343
+    21300688: tile 3ose 2_344
+    21300690: tile 3ose 2_345
+    21300692: tile 3ose 2_346
+    21300694: tile 3ose 2_347
+    21300696: tile 3ose 2_348
+    21300698: tile 3ose 2_349
+    21300700: tile 3ose 2_350
+    21300702: tile 3ose 2_351
+    21300704: tile 3ose 2_352
+    21300706: tile 3ose 2_353
+    21300708: tile 3ose 2_354
+    21300710: tile 3ose 2_355
+    21300712: tile 3ose 2_356
+    21300714: tile 3ose 2_357
+    21300716: tile 3ose 2_358
+    21300718: tile 3ose 2_359
+    21300720: tile 3ose 2_360
+    21300722: tile 3ose 2_361
+    21300724: tile 3ose 2_362
+    21300726: tile 3ose 2_363
+    21300728: tile 3ose 2_364
+    21300730: tile 3ose 2_365
+    21300732: tile 3ose 2_366
+    21300734: tile 3ose 2_367
+    21300736: tile 3ose 2_368
+    21300738: tile 3ose 2_369
+    21300740: tile 3ose 2_370
+    21300742: tile 3ose 2_371
+    21300744: tile 3ose 2_372
+    21300746: tile 3ose 2_373
+    21300748: tile 3ose 2_374
+    21300750: tile 3ose 2_375
+    21300752: tile 3ose 2_376
+    21300754: tile 3ose 2_377
+    21300756: tile 3ose 2_378
+    21300758: tile 3ose 2_379
+    21300760: tile 3ose 2_380
+    21300762: tile 3ose 2_381
+    21300764: tile 3ose 2_382
+    21300766: tile 3ose 2_383
+    21300768: tile 3ose 2_384
+    21300770: tile 3ose 2_385
+    21300772: tile 3ose 2_386
+    21300774: tile 3ose 2_387
+    21300776: tile 3ose 2_388
+    21300778: tile 3ose 2_389
+    21300780: tile 3ose 2_390
+    21300782: tile 3ose 2_391
+    21300784: tile 3ose 2_392
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  - buildTarget: Tizen
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tile 3ose 2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 470
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -12, y: 16}
+        - {x: -16, y: 13}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 470
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 470
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 15}
+        - {x: 15, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 470
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: -8, y: -16}
+        - {x: -8, y: 12}
+        - {x: -11, y: 14}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 470
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 16}
+        - {x: -16, y: 10}
+        - {x: -16, y: -15}
+        - {x: -14, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 470
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -15, y: 16}
+        - {x: -16, y: 15}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 470
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 16}
+        - {x: -15, y: 15}
+        - {x: -16, y: 11}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 15}
+        - {x: 15, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 470
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -14, y: 16}
+        - {x: -16, y: 14}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 470
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_9
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 470
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -11.286957, y: 11.73764}
+        - {x: 1.8605347, y: 11.786804}
+        - {x: 15.590179, y: 12.40155}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_10
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 470
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: 12.40152}
+        - {x: -4.721344, y: 12.221191}
+        - {x: 8.614746, y: 12.016296}
+        - {x: 16, y: 11.967133}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 470
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -15.385254, y: 11.786774}
+        - {x: 7.1803284, y: 11.581879}
+        - {x: 14.770508, y: 11.483582}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_12
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 470
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -15.795105, y: 11.811371}
+        - {x: 5.7788086, y: 12.516144}
+        - {x: 16, y: 12.311218}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_13
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 470
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: 11.081726}
+        - {x: -1.1886292, y: 12.106323}
+        - {x: 15.590179, y: 11.704742}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 438
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 438
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 438
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 438
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: -8, y: -16}
+        - {x: -8, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 438
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5.426697, y: 16}
+        - {x: -7.319046, y: 14.408997}
+        - {x: -0.31904602, y: 13.952911}
+        - {x: 8.134918, y: 13.179901}
+        - {x: 16, y: 12.566406}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_19
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 438
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: 8.509491}
+        - {x: -11.51091, y: 8.845764}
+        - {x: 0.5757141, y: 9.854645}
+        - {x: 6.278961, y: 11.643158}
+        - {x: 10.554138, y: 12.5095215}
+        - {x: 9.238876, y: 14.695831}
+        - {x: 4.56044, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 438
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -12, y: 16}
+        - {x: -12, y: 12}
+        - {x: -2, y: 5}
+        - {x: 16, y: 5}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_21
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 438
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: 5}
+        - {x: -15, y: 4}
+        - {x: -4, y: 4}
+        - {x: 4, y: 5}
+        - {x: 13, y: 13}
+        - {x: 13, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 438
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -10, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+        - {x: 10, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_23
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 438
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -15.385254, y: 12.147491}
+        - {x: 4.8033752, y: 12.54071}
+        - {x: 16, y: 11.721069}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_24
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 438
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -0.7050476, y: 12.13089}
+        - {x: 15.590179, y: 11.835968}
+        - {x: 12.311523, y: 15.795105}
+        - {x: -16, y: 16}
+        - {x: -16, y: 11.925995}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 406
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 406
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_27
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 406
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_28
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 406
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: -8, y: -16}
+        - {x: -8, y: 15}
+        - {x: -10, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_29
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 406
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2.3504028, y: 10.458679}
+        - {x: -10.828079, y: 5.7516174}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 10.273956}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_30
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 406
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8.643387, y: 9.16568}
+        - {x: -16, y: 8.8280945}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 15.630569, y: 9.350403}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 406
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7.7962646, y: 8.611572}
+        - {x: -16, y: 8.350372}
+        - {x: -16, y: -16}
+        - {x: 5.859909, y: -16}
+        - {x: 6.1210785, y: -9.859924}
+        - {x: 6.305786, y: -1.7450867}
+        - {x: -1.3694153, y: 7.3186035}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_32
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 406
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 16}
+        - {x: -16, y: 12}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_33
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 406
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_34
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 406
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -1, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 9, y: -16}
+        - {x: 10, y: -15}
+        - {x: 11, y: -6}
+        - {x: 11, y: 9}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_35
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 406
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 14}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 14}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_36
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 406
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: -16}
+        - {x: 12, y: -16}
+        - {x: 16, y: 0}
+        - {x: 16, y: 14}
+        - {x: -16, y: 14}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_37
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 406
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_38
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 406
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 374
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: 15}
+        - {x: -12, y: 11}
+        - {x: 16, y: 11}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_40
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 374
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: 11}
+        - {x: 14, y: 11}
+        - {x: 16, y: 13}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 374
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: 12}
+        - {x: -13, y: 11}
+        - {x: 11, y: 11}
+        - {x: 16, y: 12}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_42
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 374
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: 13}
+        - {x: -13, y: 13}
+        - {x: -10, y: 14}
+        - {x: -10, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_43
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 374
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_44
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 374
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_45
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 374
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 4, y: -16}
+        - {x: 7, y: -14}
+        - {x: 8, y: -5}
+        - {x: 5.044647, y: 1.7373352}
+        - {x: 8, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_46
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 374
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -15, y: 16}
+        - {x: -15, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_47
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 374
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_48
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 374
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 5, y: -16}
+        - {x: 9, y: -14}
+        - {x: 9, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_49
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 374
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -13, y: 16}
+        - {x: -13, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_50
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 374
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 12, y: -16}
+        - {x: 12, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_51
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 374
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_52
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 374
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 342
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_54
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 342
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_55
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 342
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_56
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 342
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: -8, y: -16}
+        - {x: -8, y: 15}
+        - {x: -10, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_57
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 342
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -11, y: 16}
+        - {x: -12, y: 13}
+        - {x: -12, y: -8}
+        - {x: -11, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_58
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 342
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_59
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 342
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 3, y: -16}
+        - {x: 4, y: -7}
+        - {x: 4, y: 10}
+        - {x: 3, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_60
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 342
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -10, y: 16}
+        - {x: -11, y: 13}
+        - {x: -11, y: -8}
+        - {x: -10, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_61
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 342
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_62
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 342
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 4, y: -16}
+        - {x: 5, y: -7}
+        - {x: 5, y: 10}
+        - {x: 4, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_63
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 342
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_64
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 342
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: 13}
+        - {x: 16, y: 13}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_65
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 342
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: 13}
+        - {x: 16, y: 13}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 310
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: 15}
+        - {x: -12, y: 7}
+        - {x: 6, y: 7}
+        - {x: 16, y: 10}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_67
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 310
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: 11}
+        - {x: 14, y: 11}
+        - {x: 16, y: 13}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_68
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 310
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: 12}
+        - {x: -13, y: 11}
+        - {x: 11, y: 11}
+        - {x: 16, y: 12}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_69
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 310
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: 13}
+        - {x: -13, y: 13}
+        - {x: -10, y: 14}
+        - {x: -10, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_70
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 310
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -11, y: 16}
+        - {x: -11, y: 12}
+        - {x: 4, y: 1}
+        - {x: 13, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_71
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 310
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -1}
+        - {x: -14, y: -2}
+        - {x: 8, y: -2}
+        - {x: 16, y: -1}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_72
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 310
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: 0}
+        - {x: -10, y: 2}
+        - {x: -2, y: 8}
+        - {x: 2, y: 13}
+        - {x: 2, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_73
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 310
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -10, y: 16}
+        - {x: -10, y: 14}
+        - {x: -2, y: 6}
+        - {x: 5, y: 2}
+        - {x: 14, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_74
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 310
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -1}
+        - {x: -14, y: -2}
+        - {x: 13, y: -2}
+        - {x: 16, y: -1}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_75
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 310
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: 0}
+        - {x: -14, y: 0}
+        - {x: -9, y: 1}
+        - {x: -1, y: 8}
+        - {x: 3, y: 13}
+        - {x: 3, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_76
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 310
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 1, y: 16}
+        - {x: -8, y: 0}
+        - {x: -8, y: -15}
+        - {x: -6, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_77
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 310
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 4, y: -16}
+        - {x: 7, y: -13}
+        - {x: 7, y: 2}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 278
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 12, y: -7}
+        - {x: -3, y: -11}
+        - {x: -5, y: -13}
+        - {x: -5, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -6}
+        - {x: 14, y: -6}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_79
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 278
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 11}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 7}
+        - {x: 12, y: 11}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_80
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 278
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 16}
+        - {x: -12, y: 14}
+        - {x: -16, y: 8}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 15}
+        - {x: 15, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_81
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 278
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 13}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 6}
+        - {x: 8, y: 13}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_82
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 278
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: -16}
+        - {x: -12, y: -16}
+        - {x: -12, y: -13}
+        - {x: -15, y: -10}
+        - {x: -16, y: -10}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_83
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 278
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 10, y: 6}
+        - {x: 9, y: -7}
+        - {x: 9, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 8}
+        - {x: 14, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_84
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 278
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 9}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 14}
+        - {x: -11, y: 11}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_85
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 278
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 15}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 11}
+        - {x: 10, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_86
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 278
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -13, y: 14}
+        - {x: -16, y: 12}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 13}
+        - {x: 12, y: 14}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_87
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 278
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 16}
+        - {x: -16, y: 12}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 13}
+        - {x: 13, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_88
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 278
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 13}
+        - {x: -16, y: -16}
+        - {x: 5, y: -16}
+        - {x: 5, y: -9}
+        - {x: 2, y: -2}
+        - {x: -13, y: 12}
+      - - {x: -3, y: 10}
+        - {x: 0, y: 11}
+        - {x: 0, y: 14}
+        - {x: -3, y: 15}
+        - {x: -5, y: 13}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_89
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 278
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: 16}
+        - {x: -16, y: 13}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_90
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 278
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 9, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 10}
+        - {x: 14, y: 13}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_91
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 278
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: -5}
+        - {x: -16, y: -15}
+        - {x: -15, y: -15}
+        - {x: -10, y: -10}
+        - {x: -10, y: -8}
+        - {x: -13, y: -5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_92
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 278
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 11, y: -9}
+        - {x: 11, y: -11}
+        - {x: 13, y: -13}
+        - {x: 16, y: -12}
+        - {x: 16, y: -6}
+        - {x: 14, y: -6}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_93
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 278
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: -16}
+        - {x: -9, y: -16}
+        - {x: -9, y: -11}
+        - {x: -14, y: -6}
+        - {x: -16, y: -6}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_94
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 246
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 16}
+        - {x: -11, y: 11}
+        - {x: -16, y: -7}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_95
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 246
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_96
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 246
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_97
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 246
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_98
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 246
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: -5, y: -16}
+        - {x: -1, y: -9}
+        - {x: -1, y: 2}
+        - {x: -9, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_99
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 246
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 5, y: 16}
+        - {x: -16, y: -8}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_100
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 246
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_101
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 246
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_102
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 246
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_103
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 246
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 9, y: -16}
+        - {x: 16, y: -12}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_104
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 246
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -11}
+        - {x: -6, y: -10}
+        - {x: 2, y: -8}
+        - {x: 4, y: 3}
+        - {x: 4, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_105
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 246
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 16}
+        - {x: -4, y: 5}
+        - {x: 6, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_106
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 246
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: -11, y: -16}
+        - {x: -1, y: 14}
+        - {x: -1, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_107
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 246
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 11, y: 16}
+        - {x: -16, y: -12}
+        - {x: -16, y: -16}
+        - {x: 9, y: -16}
+        - {x: 16, y: 6}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_108
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 246
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: 9}
+        - {x: -15, y: 9}
+        - {x: -9, y: 15}
+        - {x: -9, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_109
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 214
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -15, y: 16}
+        - {x: -15, y: 13}
+        - {x: -10, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_110
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 214
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_111
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 214
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_112
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 214
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 15, y: -16}
+        - {x: 16, y: -15}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_113
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 214
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 3, y: 11}
+        - {x: -5, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -13}
+        - {x: -12, y: -16}
+        - {x: 1, y: -16}
+        - {x: 4, y: -13}
+        - {x: 4, y: 3}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_114
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 214
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: 10}
+        - {x: 12, y: -1}
+        - {x: 16, y: -1}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_115
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 214
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 2, y: 12}
+        - {x: -1, y: 10}
+        - {x: 4, y: 15}
+        - {x: 4, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -1}
+        - {x: -15, y: -2}
+        - {x: -2, y: -13}
+        - {x: 5, y: -13}
+        - {x: 16, y: -11}
+        - {x: 16, y: 15}
+        - {x: 13, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_116
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 214
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -15, y: 16}
+        - {x: -16, y: 15}
+        - {x: -16, y: -10}
+        - {x: -11, y: -10}
+        - {x: -8, y: -8}
+        - {x: -4, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_117
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 214
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: -2, y: -16}
+        - {x: 16, y: 7}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_118
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 214
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: 7}
+        - {x: -2, y: 7}
+        - {x: 4, y: 15}
+        - {x: 4, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_119
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 214
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 8, y: 16}
+        - {x: -16, y: -9}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_120
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 214
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -11, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -11}
+        - {x: 13, y: -9}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_121
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 214
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: -16}
+        - {x: 2, y: -16}
+        - {x: 16, y: 10}
+        - {x: 16, y: 16}
+        - {x: 12, y: 16}
+        - {x: -16, y: -1}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_122
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 214
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 16}
+        - {x: -7, y: 12}
+        - {x: -4, y: -3}
+        - {x: -2, y: -4}
+        - {x: 1, y: -3}
+        - {x: 2, y: 4}
+        - {x: 1, y: 16}
+      - - {x: -16, y: 16}
+        - {x: -16, y: 12}
+        - {x: -15, y: 12}
+        - {x: -12, y: 15}
+        - {x: -12, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_123
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 182
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5, y: 16}
+        - {x: -5, y: 7}
+        - {x: 5, y: 2}
+        - {x: 16, y: 2}
+        - {x: 16, y: 15}
+        - {x: 15, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_124
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 182
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -9}
+        - {x: -4, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_125
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 182
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      - - {x: -8, y: -4}
+        - {x: -6, y: -1}
+        - {x: -8, y: -7}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_126
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 182
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 16, y: 12}
+        - {x: 14, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: -9, y: -16}
+        - {x: -5, y: -9}
+        - {x: 13, y: -1}
+        - {x: 16, y: 2}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_127
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 182
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 11}
+        - {x: -16, y: 3}
+        - {x: -15, y: 3}
+        - {x: -12, y: 6}
+        - {x: -12, y: 8}
+        - {x: -15, y: 11}
+      - - {x: -8, y: 16}
+        - {x: -7, y: 13}
+        - {x: -4, y: 13}
+        - {x: -2, y: 15}
+        - {x: -2, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_128
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 182
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5, y: 16}
+        - {x: -13, y: -5}
+        - {x: -13, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_129
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 182
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 16, y: -16}
+        - {x: 16, y: -6}
+        - {x: 5, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_130
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 182
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 16}
+        - {x: -16, y: 9}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 13}
+        - {x: 14, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_131
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 182
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -14, y: 13}
+        - {x: -16, y: 12}
+        - {x: -16, y: -16}
+        - {x: 8, y: -16}
+        - {x: 10, y: -14}
+        - {x: 10, y: 0}
+        - {x: 5, y: 13}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_132
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 182
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 10, y: -10}
+        - {x: 6, y: -15}
+        - {x: 6, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -6}
+        - {x: 15, y: -6}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_133
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 182
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 10, y: 16}
+        - {x: 0, y: 16}
+        - {x: -10, y: 14}
+        - {x: -16, y: -3}
+        - {x: -16, y: -16}
+        - {x: -8, y: -16}
+        - {x: 7, y: -5}
+        - {x: 15, y: 8}
+        - {x: 15, y: 13}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_134
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 150
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 13, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -12}
+        - {x: 13, y: -13}
+      - - {x: 12, y: 16}
+        - {x: 12, y: 14}
+        - {x: 15, y: 10}
+        - {x: 16, y: 10}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_135
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 150
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_136
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 150
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -12, y: -16}
+        - {x: -13, y: -13}
+        - {x: -16, y: -13}
+        - {x: -16, y: -16}
+      - - {x: -16, y: 16}
+        - {x: -16, y: 8}
+        - {x: -14, y: 8}
+        - {x: -11, y: 10}
+        - {x: -10, y: 13}
+        - {x: -10, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_137
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 150
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_138
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 150
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_139
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 150
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_140
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 150
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: 9}
+        - {x: -9, y: 1}
+        - {x: -7, y: 0}
+        - {x: -2, y: 1}
+        - {x: -9, y: -14}
+        - {x: -8, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_141
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 150
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: 7}
+        - {x: -13, y: 6}
+        - {x: -13, y: 7}
+        - {x: -16, y: 4}
+        - {x: -16, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 14}
+        - {x: 9, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_142
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 150
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 3, y: 16}
+        - {x: -16, y: -5}
+        - {x: -16, y: -16}
+        - {x: 8, y: -16}
+        - {x: 16, y: 4}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_143
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 150
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: 12}
+        - {x: -13, y: 12}
+        - {x: -10, y: 15}
+        - {x: -10, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_144
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 118
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 13, y: 16}
+        - {x: 13, y: 11}
+        - {x: 15, y: 9}
+        - {x: 16, y: 9}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_145
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 118
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_146
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 118
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 6, y: -16}
+        - {x: 6, y: -11}
+        - {x: -11, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_147
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 118
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_148
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 118
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_149
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 86
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 10, y: -6}
+        - {x: 5, y: -10}
+        - {x: 3, y: -15}
+        - {x: 3, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -6}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_150
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 86
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 2, y: -4}
+        - {x: -16, y: -4}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -12}
+        - {x: 13, y: -5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_151
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 86
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 11, y: -10}
+        - {x: 11, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -6}
+        - {x: 15, y: -6}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_152
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 86
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: -5}
+        - {x: -16, y: -16}
+        - {x: 1, y: -16}
+        - {x: 1, y: -6}
+        - {x: -1, y: -4}
+        - {x: -15, y: -4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_153
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 86
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 12, y: -15}
+        - {x: 12, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -13}
+        - {x: 14, y: -13}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_154
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 86
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: -13}
+        - {x: -16, y: -16}
+        - {x: 15, y: -16}
+        - {x: 14, y: -13}
+        - {x: 4, y: -11}
+        - {x: -14, y: -11}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_155
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 86
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 13, y: 8}
+        - {x: -2, y: 8}
+        - {x: -15, y: -5}
+        - {x: -15, y: -16}
+        - {x: 12, y: -16}
+        - {x: 14, y: -7}
+        - {x: 14, y: 6}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 54
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 2, y: 16}
+        - {x: -15, y: 1}
+        - {x: -16, y: -3}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_157
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 54
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_158
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 54
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: -16}
+        - {x: -6, y: -16}
+        - {x: -6, y: -1}
+        - {x: -7, y: 8}
+        - {x: -13, y: 12}
+        - {x: -16, y: 12}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_159
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 54
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: 8}
+        - {x: -16, y: -8}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 7}
+        - {x: 12, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_160
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 54
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 4}
+        - {x: -16, y: -16}
+        - {x: -7, y: -16}
+        - {x: -7, y: -11}
+        - {x: -13, y: 4}
+      - - {x: 11, y: 16}
+        - {x: 7, y: 8}
+        - {x: 4, y: 3}
+        - {x: -7, y: -11}
+        - {x: -7, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_161
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 54
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 3}
+        - {x: 1, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_162
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 54
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 9, y: 16}
+        - {x: -3, y: 7}
+        - {x: -16, y: -10}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_163
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 54
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 13}
+        - {x: 15, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_164
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 54
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: -16}
+        - {x: -4, y: -16}
+        - {x: -4, y: -9}
+        - {x: -7, y: 5}
+        - {x: -12, y: 8}
+        - {x: -16, y: 8}
+      - - {x: 10, y: 3}
+        - {x: -3, y: -11}
+        - {x: -3, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 4}
+        - {x: 12, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_165
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 54
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 6}
+        - {x: -15, y: 6}
+        - {x: -16, y: 5}
+        - {x: -16, y: -16}
+        - {x: 5, y: -16}
+        - {x: 5, y: -9}
+        - {x: 0, y: 2}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_166
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 54
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 3, y: 15}
+        - {x: -13, y: -4}
+        - {x: -13, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_167
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 54
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -14}
+        - {x: -10, y: -14}
+        - {x: 11, y: -6}
+        - {x: 11, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_168
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 22
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -13, y: -15}
+        - {x: -13, y: -16}
+        - {x: -5, y: -16}
+        - {x: 16, y: 5}
+        - {x: 16, y: 13}
+        - {x: 15, y: 13}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tile 3ose 2_169
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 22
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -14, y: 16}
+        - {x: -16, y: 14}
+        - {x: -16, y: 6}
+        - {x: -15, y: 6}
+        - {x: -6, y: 15}
+        - {x: -6, y: 16}
+      - - {x: 0, y: 16}
+        - {x: 0, y: 11}
+        - {x: 2, y: 9}
+        - {x: 14, y: 9}
+        - {x: 16, y: 11}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: tiles
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
